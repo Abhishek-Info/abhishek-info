@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Abhishek and I'm a Computer Science Student, from Bihar</p>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left"> </h2>
 
 ###
 
@@ -49,3 +49,12 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
