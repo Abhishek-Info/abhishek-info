@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Abhishek<b> and I'm a Computer Science Student, from Bihar </p>
+<h2 align="left">My Shelf Abhishek Kumar</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-info&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-info" /> </p>
 
