@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <b>Abhishek<b> and I'm a Computer Science Student, from Bihar</p>
+<p align="left">My name is <b>Abhishek<b> and I'm a Computer Science Student, from Bihar </p>
 
 ###
 
