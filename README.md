@@ -16,6 +16,18 @@
 
 ###
 
+- 👨‍💻 All of my projects are available at [abhishekinfo.com](abhishekinfo.com)
+
+- 💬 Ask me about **[contact@abhishekinfo.com](abhishekinfo.com)**
+
+- 📫 How to reach me **contact@abhishekinfo.com**
+
+- 📄 Know about my experiences [abhishekinfo.com/resume](abhishekinfo.com/resume)
+
+- ⚡ Fun fact **I don,t Know.**
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
