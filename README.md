@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My Shelf Abhishek Kumar</p>
+<p align="left">My Self <b>Abhishek Kumar</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-info&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-info" /> </p>
 
