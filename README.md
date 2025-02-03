@@ -67,14 +67,9 @@
 
 ## 🎯 Support Me
 
-<div align="left">
-  <a href="https://www.buymeacoffee.com/abhishekinfo" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/abhishekinfo" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi" />
-  </a>
+div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-info&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-info&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <br>
