@@ -11,7 +11,7 @@
 - 📄 Check out my resume: **[abhishekinfo.com/resume](https://abhishekinfo.com/resume)**
 - ⚡ Fun fact: **Still figuring that out! 😄**
 
----
+
 
 ## 📱 Connect with Me:
 
@@ -45,7 +45,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 </p>
 
----
+
 
 ## 🎯 Support Me
 
@@ -76,7 +76,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -85,7 +85,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-info&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
----
+
 
 ## 🔥 Streak Stats
 
