@@ -15,8 +15,6 @@
 
 ## 📱 Connect with Me:
 
-## 📱 Connect with Me:
-
 <p align="left">
   <a href="https://twitter.com/abhishekinfo108" target="Twitter">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
